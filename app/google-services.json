@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "556892767434",
+    "project_id": "guia-de-viagem-cd2b9",
+    "storage_bucket": "guia-de-viagem-cd2b9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:556892767434:android:9802a311592fcac9c96033",
+        "android_client_info": {
+          "package_name": "com.lucas.guiadeviagem"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHBkrLZQi_jzwhOcF2SVfIhD906n0pteM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
